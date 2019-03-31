@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Planet_toon
+  m_Shader: {fileID: 4800000, guid: e118b686dbeb791458c91c2d156d2eb3, type: 3}
+  m_ShaderKeywords: _KEYWORD0_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 39f481c10a15e3b4990e3e7c912d5d0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: afb8a97f21fcace44ba0064d7aef7083, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: afb8a97f21fcace44ba0064d7aef7083, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ASEOutlineWidth: 0.1
+    - _Cutoff: 0.33
+    - _EdgeLength: 15
+    - _Float2: 10
+    - _Float3: 0
+    - _Float5: 1
+    - _Int0: 3
+    - _Keyword0: 1
+    - _OutlineScale: 0.89
+    - _ToggleSwitch0: 0
+    - __dirty: 0
+    - _outline: 1
+    - _outline_Scale: 0.075
+    - _outline_alpha: 1
+    m_Colors:
+    - _ASEOutlineColor: {r: 1, g: 0, b: 0, a: 0}
+    - _Color0: {r: 1, g: 0, b: 0, a: 0}
+    - _Color1: {r: 0, g: 0.77932453, b: 1, a: 0}
+    - _OutlineColor: {r: 1, g: 0, b: 0, a: 0}
+    - _Te: {r: 0, g: 0, b: 0, a: 1}
+    - _TextureCol: {r: 0, g: 0, b: 0, a: 1}
+    - _TextureColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ToonColor: {r: 0.83137256, g: 0.5137255, b: 0.5137255, a: 0}
+    - _outline_color: {r: 1, g: 0, b: 0.39215687, a: 1}

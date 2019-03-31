@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0c9472b9fd16984086c0d49513ac31f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phenomena
+  fontNames:
+  - Phenomena
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 649fdc9a0a0361945a9cfe125fdb0d5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
